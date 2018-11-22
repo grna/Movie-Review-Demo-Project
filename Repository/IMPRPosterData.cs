@@ -5,7 +5,7 @@ using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
 
-namespace SciFiReviewsApi.Repositories
+namespace SciFiReviewsApi.Repository
 {
     public class IMPRPosterData : IPosterData
     {
