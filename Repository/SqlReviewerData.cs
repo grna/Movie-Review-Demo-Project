@@ -8,7 +8,7 @@ using SciFiReviewsApi.Models.DtoModels;
 using SciFiReviewsApi.Models.EntityModels;
 using SciFiReviewsApi.Models.ReturnModels;
 
-namespace SciFiReviewsApi.Services
+namespace SciFiReviewsApi.Repository
 {
     public class SqlReviewerData : IReviewerData
     {
