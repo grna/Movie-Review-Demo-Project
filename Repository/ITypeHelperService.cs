@@ -1,4 +1,4 @@
-﻿namespace SciFiReviewsApi.Services
+﻿namespace SciFiReviewsApi.Repository
 {
     public interface ITypeHelperService
     {
