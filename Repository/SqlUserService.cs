@@ -6,7 +6,7 @@ using SciFiReviewsApi.Models;
 using SciFiReviewsApi.Models.DtoModels;
 using SciFiReviewsApi.Models.EntityModels;
 
-namespace SciFiReviewsApi.Services
+namespace SciFiReviewsApi.Repository
 {
     public class SqlUserService : IUserService
     {
