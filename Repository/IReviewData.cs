@@ -4,7 +4,7 @@ using SciFiReviewsApi.Models.EntityModels;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace SciFiReviewsApi.Services
+namespace SciFiReviewsApi.Repository
 {
     public interface IReviewData
     {
